@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on interesting open source projects on new technologies, that advance the world to a net zero emission future. 
 - 📫 How to reach me masonlee@aust-thai.org.au
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/datadawg-11/github-readme-stats)
