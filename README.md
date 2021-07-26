@@ -9,3 +9,8 @@
 
 [![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=datadawg-11)](https://github.com/datadawg-11/github-readme-stats)
 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datadawg-11)](https://github.com/datadawg-11/github-readme-stats)
+
