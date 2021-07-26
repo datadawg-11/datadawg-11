@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript to make cool looking websites and applications
 - 💞️ I’m looking to collaborate on interesting open source projects on new technologies, that advance the world to a net zero emission future. 
 - 📫 How to reach me masonlee@aust-thai.org.au
-
 ---
 
 
